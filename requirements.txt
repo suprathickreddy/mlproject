@@ -5,6 +5,5 @@ matplotlib
 scikit-learn
 catboost
 xgboost
-scikit-learn
 flask
 # -e .
